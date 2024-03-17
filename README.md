@@ -1,7 +1,6 @@
 # Online Shop Project
 Introduction
 Welcome to the Online Shop project! This project is aimed at creating a scalable and robust e-commerce platform using Java Spring with a microservices architecture. The system allows users to browse, search, and purchase products across different categories.
-
 ## Features
 - User Authentication: Secure user authentication and authorization.
 - Product Management: CRUD operations for managing products.
@@ -11,7 +10,7 @@ Welcome to the Online Shop project! This project is aimed at creating a scalable
 - Payment Processing: Integration with payment gateways for secure payment processing.
 - Notification System: Sending notifications to users about order updates, promotions, etc.
 ## Microservices
-![OnlineShop2](https://github.com/skijl/OnlineShop/assets/128129267/d50cf46b-088f-4877-96c8-7ee380886e7e)
+![OnlineShop4](https://github.com/Online-Shop-Project-Resume/OnlineShop/assets/128129267/fcebcf5f-c947-4e60-a6e1-e14b3260152a)
 1. Authentication Service: Handles user authentication and authorization.
 2. Product Service: Manages products and categories.
 3. Order Service: Manages order creation, order status, and order history.
