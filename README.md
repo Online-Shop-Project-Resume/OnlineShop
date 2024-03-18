@@ -20,7 +20,7 @@ Welcome to the Online Shop project! This project is aimed at creating a scalable
 7. Notification Service: Sends notifications to users about order updates.
 8. Api-Gateway: Gateway for the whole application
 ## Database System
-![OnlineShop-2024-03-18_15-29](https://github.com/Online-Shop-Project-Resume/OnlineShop/assets/128129267/f7dd3192-e7f3-49a9-97c0-7b09cbc9fdc4)
+![OnlineShop-2024-03-19_00-42](https://github.com/Online-Shop-Project-Resume/OnlineShop/assets/128129267/45e0c0d4-10ec-41c0-8391-0a38a16821c7)
 ## Technologies Used
 - Java Spring Boot: For building microservices.
 - Spring Security: For user authentication and authorization.
