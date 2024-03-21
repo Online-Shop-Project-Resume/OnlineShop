@@ -29,5 +29,11 @@ Welcome to the Online Shop project! This project is aimed at creating a scalable
 - MySQL: For database management.
 - Swagger UI: For API documentation.
 - JUnit and Mockito: For testing.
+## Services Ports
+- ApiGateway:8080
+- ProductService:8081
+- InventoryService:8082
+- OrderService:8083
+- CartService:8084
 ## Contributors
 - Max Makhrevych
